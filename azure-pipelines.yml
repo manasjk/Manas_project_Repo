@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool:
-  vmImage: ubuntu-latest
+pool: manas_agent_pool
+  
 
 steps:
 - task: Maven@3
