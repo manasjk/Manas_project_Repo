@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: manas_agent_pool
+pool: Azure Pipelines
   
 
 steps:
