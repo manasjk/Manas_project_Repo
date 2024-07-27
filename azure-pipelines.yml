@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: Default
+pool: manas_agent_pool
   
 
 steps:
