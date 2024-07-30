@@ -14,8 +14,8 @@ steps:
   inputs:
     mavenPomFile: 'C:\Users\ADMIN\Desktop\LAB\Manas_project_repo\Manas_project_Repo\MyAwesomeApp\pom.xml'
     mavenOptions: '-Xmx3072m'
-    javaHomeOption: 'JDKVersion'
-    jdkVersionOption: '1.8'
+    javaHomeOption: 'C:\Program Files\Java\jdk-17\bin'
+    jdkVersionOption: '1.7'
     jdkArchitectureOption: 'x64'
     publishJUnitResults: true
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
