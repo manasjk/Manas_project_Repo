@@ -12,7 +12,7 @@ pool: Default
 steps:
 - task: Maven@3
   inputs:
-    mavenPomFile: 'pom.xml'
+    mavenPomFile: 'C:\Users\ADMIN\Desktop\LAB\Manas_project_repo\Manas_project_Repo\MyAwesomeApp\pom.xml'
     mavenOptions: '-Xmx3072m'
     javaHomeOption: 'JDKVersion'
     jdkVersionOption: '1.8'
